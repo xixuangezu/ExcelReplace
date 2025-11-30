@@ -1,0 +1,1 @@
+pyinstaller3 -F -w --icon=ico.ico main.py
